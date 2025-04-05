@@ -1,0 +1,81 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+.titulocentro{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 15px;
+    background-color: rgb(67, 18, 18);
+    color: white;
+}
+
+body{background-color: rgb(54, 57, 59);}
+
+
+  
+
+td{
+    color: white;
+    height: 50px;
+    width: 150px;
+font-size: 25px
+  
+}
+.menor{
+    width: 20px;
+    border:1px solid white ;
+    color: white;
+    height: 50px;
+    font-size: 20px;
+
+}
+
+.maior{
+    border:1px solid white ;
+    color: white;
+    height: 50px;
+    font-size: 20px;
+    width: 150px;
+}
+
+.primeiro{
+    width: 80px;
+}
+
+
+
+.tabelapilotos{
+    width: 1000px;font-family: Arial, Helvetica, sans-serif ;font-size: 12px;
+    border:1px solid rgb(255, 255, 255);
+    margin: 0 auto;
+
+}
+.tabelascuderia{
+    width: 1000px;font-family: Arial, Helvetica, sans-serif ;font-size: 12px;
+    border:1px solid rgb(255, 255, 255);
+    margin: 0 auto;
+}
+.tabelaastralia{
+    width: 500px;font-family: Arial, Helvetica, sans-serif ;font-size: 12px;
+    border:1px solid rgb(255, 255, 255);
+    float: left;
+}
+.tabelachina{
+    width: 475px;font-family: Arial, Helvetica, sans-serif ;font-size: 12px;
+    border:1px solid rgb(255, 255, 255);
+    float: center;
+
+}
+
+.tabelapolonia{
+    width: 500px;font-family: Arial, Helvetica, sans-serif ;font-size: 12px;
+    border:1px solid rgb(255, 255, 255);
+    float: right;
+}
